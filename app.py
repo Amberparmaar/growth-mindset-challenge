@@ -53,7 +53,7 @@ st.markdown("---")
 st.write("----")
 st.write("Keep up the great work! 🌟")
 st.write("**Created with ❤️ by Amber Parmaar**")
-st.write("Find me on [LinkedIn](https://www.linkedin.com/in/amberparmaar/) and [GitHub]")
+st.write("Find me on [LinkedIn](https://www.linkedin.com/in/amber-shoukat-19724a293/)")
 
 
 
